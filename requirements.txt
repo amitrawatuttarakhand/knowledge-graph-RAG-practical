@@ -1,5 +1,6 @@
 streamlit
 langchain
+langchain-community
 neo4j
 sentence-transformers
 faiss-cpu
@@ -7,5 +8,3 @@ torch
 transformers
 groq
 python-dotenv
-
-
