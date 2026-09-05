@@ -6,4 +6,6 @@ faiss-cpu
 torch
 transformers
 groq
+python-dotenv
+
 
